@@ -1,0 +1,19 @@
+body{
+  background-color: rgb(23, 23, 23);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+button{
+  color: rgb(113, 185, 185);
+  background-color: rgb(34, 34, 33);
+  
+  
+}
+p{
+  color: aquamarine;
+}
+#d1{
+  display: block;
+  
+}

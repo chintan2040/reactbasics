@@ -1,6 +1,6 @@
 function Prc(){
     return(
-        <h1>practice</h1>
+        <h2>react</h2>
     )
 }
-export default Prc;
+export default Prc
